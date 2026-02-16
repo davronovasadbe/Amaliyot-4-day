@@ -520,14 +520,13 @@ main {
   height: auto;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .first-middles {
   width: 80%;
   display: flex;
   align-items: center;
-
   justify-content: center;
 }
 
@@ -538,8 +537,6 @@ main {
 .it {
   display: flex;
   align-items: center;
-
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   justify-content: center;
 }
