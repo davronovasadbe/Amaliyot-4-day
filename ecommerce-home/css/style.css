@@ -527,12 +527,14 @@ main {
   width: 80%;
   display: flex;
   align-items: center;
+
   justify-content: center;
 }
 
 .first-middles img {
   padding: 30px 10px 0 0;
 }
+
 .it {
   display: flex;
   align-items: center;
